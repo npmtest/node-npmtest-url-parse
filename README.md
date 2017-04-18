@@ -1,7 +1,10 @@
-# test coverage for  [url-parse (v1.1.8)](https://github.com/unshiftio/url-parse#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-url-parse.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-url-parse) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-url-parse.svg)](https://travis-ci.org/npmtest/node-npmtest-url-parse)
+# npmtest-url-parse
+
+#### test coverage for  [url-parse (v1.1.8)](https://github.com/unshiftio/url-parse#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-url-parse.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-url-parse) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-url-parse.svg)](https://travis-ci.org/npmtest/node-npmtest-url-parse)
+
 #### Small footprint URL parser that works seamlessly across Node.js and browser environments
 
-[![NPM](https://nodei.co/npm/url-parse.png?downloads=true)](https://www.npmjs.com/package/url-parse)
+[![NPM](https://nodei.co/npm/url-parse.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/url-parse)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-url-parse/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-url-parse/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-url-parse/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-url-parse/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-url-parse/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-url-parse/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-url-parse/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-url-parse/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-url-parse/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-url-parse/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-url-parse%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-url-parse/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-url-parse/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-url-parse/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-url-parse/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-url-parse%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-url-parse/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-url-parse/build/test-report.html](https://npmtest.github.io/node-npmtest-url-parse/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-url-parse/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-url-parse/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-url-parse/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-url-parse/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-url-parse/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-url-parse/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-url-parse/build/screenCapture.npmPackageListing.svg)
 
@@ -67,25 +76,20 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "3rdeden",
-            "email": "npm@3rd-Eden.com"
+            "name": "3rdeden"
         },
         {
-            "name": "swaagie",
-            "email": "info@martijnswaagman.nl"
+            "name": "swaagie"
         },
         {
-            "name": "unshift",
-            "email": "npm@unshift.io"
+            "name": "unshift"
         },
         {
-            "name": "v1",
-            "email": "npm@3rd-Eden.com"
+            "name": "v1"
         }
     ],
     "name": "url-parse",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/unshiftio/url-parse.git"
