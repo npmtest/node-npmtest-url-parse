@@ -1,6 +1,6 @@
 # npmtest-url-parse
 
-#### test coverage for  [url-parse (v1.1.8)](https://github.com/unshiftio/url-parse#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-url-parse.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-url-parse) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-url-parse.svg)](https://travis-ci.org/npmtest/node-npmtest-url-parse)
+#### basic test coverage for  [url-parse (v1.1.8)](https://github.com/unshiftio/url-parse#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-url-parse.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-url-parse) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-url-parse.svg)](https://travis-ci.org/npmtest/node-npmtest-url-parse)
 
 #### Small footprint URL parser that works seamlessly across Node.js and browser environments
 
